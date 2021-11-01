@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Teleanimacion
+https://live.admefy.com/live/default/smiling_bronze_7657c.m3u8
+#EXTINF:0 type="stream" channelId="1330" name="HBO West HD" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSevizFLo2_TLXSE55-KFW7Qsg9UqhNxxqVVA&usqp=CAU", HBO HD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/54865
+#EXTINF:0 type="stream" channelId="50" name="Animal Planet SD", Animal Planet
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/74044
+#EXTINF:0 type="stream" channelId="-1" name="AMC ⁽ᴴᴰ⁾" logo="http://printv.esy.es/server/AMC%20HD.png", AMC ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/40116
+#EXTINF:0 type="favorites" channelId="2488" logo="https://lh3.googleusercontent.com/-53_HtUb3jnc/XzgiULPdOxI/AAAAAAAA4Yg/u_kS47iatBgohPcQ3uOpO8Rz7r5RMBARwCK8BGAsYHg/s0/2020-08-15.png", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://lh3.googleusercontent.com/-bnrOj4B4f5E/XzgivjU8UdI/AAAAAAAA4Y0/Nq7rYd9bimA55CW3KaET8v-HljOIOVbCQCK8BGAsYHg/s0/2020-08-15.jpg", Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:0 type="favorites" channelId="4786" logo="https://lh3.googleusercontent.com/-IUpSSVnzrws/Xzgi51GivnI/AAAAAAAA4Y8/nHmUFN6uZ7oB-uQxgHaASZT9quRePknMwCK8BGAsYHg/s0/2020-08-15.png", Telepacífico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="1212" logo="https://i2.paste.pics/dc331a48febf7ce9210bfb4296127a00.png", Animax
+https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="4776" logo="https://lh3.googleusercontent.com/-BK2illtLNdw/Xzgh2FS7TtI/AAAAAAAA4YM/gnbmSqIJG5wCwVJ2gUG0NPQgbo1axWmcwCK8BGAsYHg/s0/2020-08-15.jpg", Cosmovisión
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:0 type="favorites" channelId="4649" logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png", Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png", Chavo TV
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="1208" name="A&E SD" group="LATINOS SD", A&E SD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/74042
+#EXTINF:0 type="favorites" channelId="1573" name="AXN SD" group="LATINOS SD", AXN SD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/74045
+#EXTINF:0 type="favorites" channelId="1574" name="AXN WHITE" group="CINE" logo="http://printv.esy.es/server/AXN%20White.png", AXN WHITE
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/42433
+#EXTINF:0 type="favorites" channelId="-1" name="AXN ⁽ᴴᴰ⁾" group="CINE" logo="http://printv.esy.es/server/AXN%20HD.png", AXN ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/1725
+#EXTINF:0 type="favorites" channelId="227" name="AyM SPORTS (ʜᴅ)" group="DEPORTES" logo="https://i.ibb.co/rM3bz8B/aym.png", AyM SPORTS (ʜᴅ)
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/54971
+#EXTINF:0 type="favorites" channelId="1959" name="BANDAMAX" group="MÚSICA" logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5610_7_133975.png", BANDAMAX
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/34685
+#EXTINF:0 type="favorites" channelId="40" name="Cartoon Network SD" group="LATINOS SD", Cartoon Network SD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/74053
+#EXTINF:0 type="favorites" channelId="40" name="CARTOON NETWORK (ʜᴅ)" group="INFANTIL" logo="https://i.ibb.co/TmYhmSz/cartoon-network.png", CARTOON NETWORK (ʜᴅ)
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/15804
