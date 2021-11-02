@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="COL: (ʜᴅ)" logo="https://i.ibb.co/HXZdKSd/RCN.png" tvg-country="co", RCN
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/17758
+#EXTINF:0 type="stream" channelId="4773" name="COL: CARACOL (ꜱᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/547px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" tvg-country="co", CARACOL (ꜱᴅ)
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/70173
+#EXTINF:0 type="stream" channelId="40" name="Cartoon Network SD" group="LATINOS SD", Cartoon Network SD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/74053
+#EXTINF:0 type="stream" channelId="1330" name="HBO West HD" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSevizFLo2_TLXSE55-KFW7Qsg9UqhNxxqVVA&usqp=CAU", HBO HD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/54865
+#EXTINF:0 type="stream" channelId="50" name="Animal Planet SD", Animal Planet
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/74044
+#EXTINF:0 type="stream" channelId="-1" name="AMC ⁽ᴴᴰ⁾" logo="http://printv.esy.es/server/AMC%20HD.png", AMC ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/40116
+#EXTINF:0 type="stream" channelId="2488" logo="https://lh3.googleusercontent.com/-53_HtUb3jnc/XzgiULPdOxI/AAAAAAAA4Yg/u_kS47iatBgohPcQ3uOpO8Rz7r5RMBARwCK8BGAsYHg/s0/2020-08-15.png", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://lh3.googleusercontent.com/-bnrOj4B4f5E/XzgivjU8UdI/AAAAAAAA4Y0/Nq7rYd9bimA55CW3KaET8v-HljOIOVbCQCK8BGAsYHg/s0/2020-08-15.jpg", Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:0 type="stream" channelId="4786" logo="https://lh3.googleusercontent.com/-IUpSSVnzrws/Xzgi51GivnI/AAAAAAAA4Y8/nHmUFN6uZ7oB-uQxgHaASZT9quRePknMwCK8BGAsYHg/s0/2020-08-15.png", Telepacífico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Teleanimacion
+https://live.admefy.com/live/default/smiling_bronze_7657c.m3u8
+#EXTINF:0 type="stream" channelId="1212" logo="https://i2.paste.pics/dc331a48febf7ce9210bfb4296127a00.png", Animax
+https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4776" logo="https://lh3.googleusercontent.com/-BK2illtLNdw/Xzgh2FS7TtI/AAAAAAAA4YM/gnbmSqIJG5wCwVJ2gUG0NPQgbo1axWmcwCK8BGAsYHg/s0/2020-08-15.jpg", Cosmovisión
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:0 type="stream" channelId="4649" logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png", Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png", Chavo TV
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1208" name="A&E SD" group="LATINOS SD", A&E SD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/74042
+#EXTINF:0 type="stream" channelId="1573" name="AXN SD" group="LATINOS SD", AXN SD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/74045
+#EXTINF:0 type="stream" channelId="1574" name="AXN WHITE" group="CINE" logo="http://printv.esy.es/server/AXN%20White.png", AXN WHITE
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/42433
+#EXTINF:0 type="stream" channelId="-1" name="AXN ⁽ᴴᴰ⁾" group="CINE" logo="http://printv.esy.es/server/AXN%20HD.png", AXN ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/1725
+#EXTINF:0 type="stream" channelId="227" name="AyM SPORTS (ʜᴅ)" group="DEPORTES" logo="https://i.ibb.co/rM3bz8B/aym.png", AyM SPORTS (ʜᴅ)
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/54971
+#EXTINF:0 type="stream" channelId="1959" name="BANDAMAX" group="MÚSICA" logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5610_7_133975.png", BANDAMAX
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/34685
+#EXTINF:0 type="stream" channelId="40" name="CARTOON NETWORK (ʜᴅ)" group="INFANTIL" logo="https://i.ibb.co/TmYhmSz/cartoon-network.png", CARTOON NETWORK (ʜᴅ)
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/15804
+#EXTINF:0 type="stream" channelId="4166" name="CANAL 11" group="PUERTO RICO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Antiguo_logo_de_Canal_Once_%28Canal_Once_Televisi%C3%B3n%29.png", CANAL 11
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/39290
+#EXTINF:0 type="stream" channelId="1676" name="CAZA Y PESCA (ʜᴅ)" group="DEPORTES" logo="https://i.ibb.co/FJMMKWB/caza.png", CAZA Y PESCA (ʜᴅ)
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/11000
+#EXTINF:0 type="stream" channelId="-1" name="CH: MEGA HD (c)" group="CHILE" logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" tvg-country="ch", MEGA HD (c)
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/17284
+#EXTINF:0 type="stream" channelId="4697" name="CH: MEGA PLUS (ʜᴅ)" group="CHILE" logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" tvg-country="ch", MEGA PLUS (ʜᴅ)
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/15864
+#EXTINF:0 type="stream" channelId="2819" name="CH: MEGA (sd)" group="CHILE" logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" tvg-country="ch", MEGA (sd)
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/17304
+#EXTINF:0 type="stream" channelId="-1" name="CINE COMEDIA" group="CANALES 24/7 CINE" logo="http://printv.esy.es/server/filmes24/comedia.png", CINE COMEDIA
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/70478
+#EXTINF:0 type="stream" channelId="-1" name="CINE AR ⁽ᵃ⁾" group="CINE" logo="https://i.ibb.co/BTCdVdT/cinear.png", CINE AR ⁽ᵃ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/43018
+#EXTINF:0 type="stream" channelId="-1" name="CINE ACCION SAGAS" group="CANALES 24/7 CINE" logo="https://e7.pngegg.com/pngimages/422/671/png-clipart-action-film-cinema-computer-icons-action-movie-drama-film-thumbnail.png", CINE ACCION SAGAS
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/70471
+#EXTINF:0 type="stream" channelId="-1" name="CINE ACCION HD" group="CANALES 24/7 CINE" logo="http://catalanfilms.cat/images/228x228e/1527243278-cinenaccion-logo.png", CINE ACCION HD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/70477
+#EXTINF:0 type="stream" channelId="-1" name="CINE TERROR HD" group="CANALES 24/7 CINE" logo="http://printv.esy.es/server/filmes24/terror.png", CINE TERROR HD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/70487
+#EXTINF:0 type="stream" channelId="-1" name="CINE ROMANCE HD" group="CANALES 24/7 CINE" logo="http://printv.esy.es/server/filmes24/romance.png", CINE ROMANCE HD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/70485
+#EXTINF:0 type="stream" channelId="-1" name="CINE FANTASIA" group="CANALES 24/7 CINE" logo="http://printv.esy.es/server/filmes24/fantasia.png", CINE FANTASIA
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/70481
+#EXTINF:0 type="stream" channelId="64" name="CINECANAL SD" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL SD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/1726
+#EXTINF:0 type="stream" channelId="64" name="CINECANAL SD" group="LATINOS SD", CINECANAL SD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/74023
+#EXTINF:0 type="stream" channelId="283" name="CINELATINO" group="CINE" logo="http://www.cinelatino.com/bundles/sitefrontend/img/cine-latino-logo.png", CINELATINO
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/55012
+#EXTINF:0 type="stream" channelId="-1" name="Cinema Anime" group="ANIME" logo="https://anime-cinema.net/wp-content/uploads/2020/12/Logo-Anime-Cinema-Light.png", Cinema Anime
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/74228
+#EXTINF:0 type="stream" channelId="-1" name="CINEMA CIENCIA FICCION ⁽ᴴᴰ⁾" group="CINE PREMIUM" logo="http://tv.iptv5latino.cl:8000/images/59c8cade091e267c32228b1d7e06de93.png", CINEMA CIENCIA FICCION ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/57652
+#EXTINF:0 type="stream" channelId="-1" name="CINEMA DC COMICS ⁽ᴴᴰ⁾" group="CINE PREMIUM" logo="http://tv.iptv5latino.cl:8000/images/9dfa95a83f4ae365cdaa575dbd3a3f3d.png", CINEMA DC COMICS ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/57653
+#EXTINF:0 type="stream" channelId="-1" name="CINEMA DC UNIVERSE ⁽ᴴᴰ⁾" group="CINE PREMIUM" logo="http://tv.iptv5latino.cl:8000/images/49c67912badc983d57a4d5593340fca6.png", CINEMA DC UNIVERSE ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/57654
+#EXTINF:0 type="stream" channelId="-1" name="CINEMA DISNEY FAMILY ⁽ᴴᴰ⁾" group="CINE PREMIUM" logo="http://tv.iptv5latino.cl:8000/images/4d9e5e65620d07c1fc4edfd06560c7a1.png", CINEMA DISNEY FAMILY ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/57655
+#EXTINF:0 type="stream" channelId="-1" name="CINEMA DREAMWORKS ⁽ᴴᴰ⁾" group="CINE PREMIUM" logo="http://tv.iptv5latino.cl:8000/images/7c3f95384c4edcaa73a03555e5dbb896.png", CINEMA DREAMWORKS ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/57656
+#EXTINF:0 type="stream" channelId="-1" name="CINEMA HAPPY MADISSON ⁽ᴴᴰ⁾" group="CINE PREMIUM" logo="http://tv.iptv5latino.cl:8000/images/2d0b50df4958fa8751e085155a25a05a.png", CINEMA HAPPY MADISSON ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/57658
+#EXTINF:0 type="stream" channelId="-1" name="Cinema Horror Classics" group="CANALES 24/7 CINE" logo="https://www.pngfind.com/pngs/m/681-6815883_cult-classic-horror-logo-hd-png-download.png", Cinema Horror Classics
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/70645
+#EXTINF:0 type="stream" channelId="-1" name="CINEMA LEGO MOVIES ⁽ᴴᴰ⁾" group="CINE PREMIUM" logo="http://tv.iptv5latino.cl:8000/images/ec630b8df2f8628633579f1e41c01aa5.png", CINEMA LEGO MOVIES ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/57660
+#EXTINF:0 type="stream" channelId="-1" name="CINEMA MARVEL ANIMADO ⁽ᴴᴰ⁾" group="CINE PREMIUM" logo="http://tv.iptv5latino.cl:8000/images/30ce813efad37b16f186b7fdd81e9efa.png", CINEMA MARVEL ANIMADO ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/57661
+#EXTINF:0 type="stream" channelId="-1" name="CINEMA MARVEL STUDIOS ⁽ᴴᴰ⁾" group="CINE PREMIUM" logo="http://tv.iptv5latino.cl:8000/images/9529a5bd8a94215beafc08591339b160.png", CINEMA MARVEL STUDIOS ⁽ᴴᴰ⁾
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/57662
+#EXTINF:0 type="stream" channelId="1326" name="CINEMAX" group="CINE" logo="http://printv.esy.es/server/Cinemax.png", CINEMAX
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/1727
+#EXTINF:0 type="stream" channelId="-1" name="Cinemax Action FHD" group="CINE PREMIUM" logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/ActionMax_2011.svg/revision/latest/scale-to-width-down/340?cb=20160721192021", Cinemax Action FHD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/54863
+#EXTINF:0 type="stream" channelId="1326" name="Cinemax SD" group="LATINOS SD", Cinemax SD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/74055
+#EXTINF:0 type="stream" channelId="-1" name="CL TNT SPORTS 1 HD" group="CHILE", CL TNT SPORTS 1 HD
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/70820
+#EXTINF:0 type="stream" channelId="287" name="CLARO SPORTS" group="DEPORTES" logo="https://i.ibb.co/zsH0b8H/clarosports.png", CLARO SPORTS
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/54755
+#EXTINF:0 type="stream" channelId="1972" name="CNN ESPAÑOL" group="NOTICIAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_de_CNN_en_Espa%C3%B1ol.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol.svg.png", CNN ESPAÑOL
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/27716
+#EXTINF:0 type="stream" channelId="4752" name="COL: CANAL UNO" group="COLOMBIA" logo="https://i.ibb.co/0mFjKwF/111.png" tvg-country="co", CANAL UNO
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3999
+#EXTINF:0 type="stream" channelId="4773" name="COL: CARACOL (ʜᴅ)" group="COLOMBIA" logo="https://i.ibb.co/xs482LJ/caracol.png" tvg-country="co", CARACOL (ʜᴅ)
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/17698
+#EXTINF:0 type="stream" channelId="-1" name="COL: CARACOL 720" group="COLOMBIA" logo="https://i.ibb.co/xs482LJ/caracol.png" tvg-country="co", CARACOL 720
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/58371
+#EXTINF:0 type="stream" channelId="3783" name="COL: RCN" group="COLOMBIA" logo="https://i.ibb.co/HXZdKSd/RCN.png" tvg-country="co", RCN
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3986
+#EXTINF:0 type="stream" channelId="-1" name="COL: RCN INTERNACIONAL" group="COLOMBIA" logo="https://i.ibb.co/HXZdKSd/RCN.png" tvg-country="co", RCN INTERNACIONAL
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/17762
+#EXTINF:0 type="stream" channelId="-1" name="COL: CITY TV 1" group="COLOMBIA" logo="https://4.bp.blogspot.com/-zry6sgkjSHw/V24lwa3aFkI/AAAAAAAAAt4/9FJ11hhgNY8lmS-5-kSY9NmR2e03LfYvwCLcB/s1600/citytv.png" tvg-country="co", CITY TV 1
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/17772
+#EXTINF:0 type="stream" channelId="-1" name="COL: LA KALLE (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/La_Kalle_Colombia_logo.svg/1200px-La_Kalle_Colombia_logo.svg.png" tvg-country="co", LA KALLE (ʜᴅ)
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/69913
+#EXTINF:0 type="stream" channelId="3780" name="COL: NTN 24" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" tvg-country="co", NTN 24
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/17789
+#EXTINF:0 type="stream" channelId="4661" name="COL: PASIONES" group="COLOMBIA" logo="http://www.laetv.tv/images/pasiones.png" tvg-country="co", PASIONES
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/17786
+#EXTINF:0 type="stream" channelId="4661" name="COL: PASIONES (T)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" tvg-country="co", PASIONES (T)
+http://dns.arenatv.biz:8080/danielcharry4583/danielcharry8832/3989
